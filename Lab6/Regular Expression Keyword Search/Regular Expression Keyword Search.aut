@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>4.0</SchemaVersion>
+  <CreatedDate>2018/11/05 15:19:35 (EST)</CreatedDate>
+  <ModifiedDate>2018/11/05 15:19:38 (EST)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.9.0</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.9.0</SavedByAutopsyVersion>
+  <Case>
+    <Name>regular_expression_keyword_search_20181105_151935</Name>
+    <DisplayName>Regular Expression Keyword Search</DisplayName>
+    <Number>003</Number>
+    <Examiner>Examiner</Examiner>
+    <ExaminerPhone/>
+    <ExaminerEmail/>
+    <CaseNotes/>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+</AutopsyCase>

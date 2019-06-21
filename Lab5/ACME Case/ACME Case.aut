@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>4.0</SchemaVersion>
+  <CreatedDate>2018/10/25 22:14:52 (EDT)</CreatedDate>
+  <ModifiedDate>2018/10/25 22:14:55 (EDT)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.9.0</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.9.0</SavedByAutopsyVersion>
+  <Case>
+    <Name>acme_case_20181025_221452</Name>
+    <DisplayName>ACME Case</DisplayName>
+    <Number>001</Number>
+    <Examiner>Examiner</Examiner>
+    <ExaminerPhone/>
+    <ExaminerEmail/>
+    <CaseNotes/>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+</AutopsyCase>

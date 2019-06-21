@@ -1,0 +1,32 @@
+2018-11-05 11:03:54.185 org.sleuthkit.autopsy.keywordsearch.Server isRunning
+INFO: Solr server is running
+2018-11-05 11:04:00.081 org.sleuthkit.autopsy.casemodule.Case openAsCurrentCase
+INFO: Opened ACME Case (acme_case_20181025_221452) in C:\Users\Marco\Desktop\ACME Case as the current case
+2018-11-05 11:04:00.942 org.sleuthkit.autopsy.corecomponents.DataContentTopComponent findInstance
+WARNING: Cannot find DataContentTopComponent component. It will not be located properly in the window system.
+2018-11-05 11:04:01.657 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB setPragmas
+INFO: sqlite-jdbc version 3.7.8 loaded in native mode
+2018-11-05 11:04:03.69 org.sleuthkit.autopsy.imagegallery.ImageGalleryController reset
+INFO: Closing ImageGalleryControler for case.
+2018-11-05 11:04:03.708 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB setPragmas
+INFO: sqlite-jdbc version 3.7.8 loaded in native mode
+2018-11-05 11:18:16.333 org.sleuthkit.autopsy.contentviewers.FileViewer isSupported
+INFO: Mimetype not known for file: ..
+2018-11-05 11:18:17.953 org.sleuthkit.autopsy.contentviewers.FileViewer isSupported
+INFO: Mimetype not known for file: .
+2018-11-05 11:22:07.218 org.sleuthkit.autopsy.keywordsearch.Server stop
+INFO: Stopping Solr server from: C:\Program Files\Autopsy-4.9.0\autopsy\solr
+2018-11-05 11:22:07.219 org.sleuthkit.autopsy.keywordsearch.Server runSolrCommand
+INFO: Running Solr command: [C:\Program Files\Autopsy-4.9.0\jre\bin\java, -Xmx512m, -DSTOP.PORT=34343, -Djetty.port=23232, -DSTOP.KEY=jjk#09s, -jar, start.jar, --stop]
+2018-11-05 11:22:07.227 org.sleuthkit.autopsy.keywordsearch.Server runSolrCommand
+INFO: Finished running Solr command
+2018-11-05 11:22:07.227 org.sleuthkit.autopsy.keywordsearch.Server stop
+INFO: Waiting for Solr server to stop
+2018-11-05 11:22:08.156 org.sleuthkit.autopsy.keywordsearch.Server stop
+INFO: Finished stopping Solr server
+2018-11-05 11:22:08.156 org.sleuthkit.autopsy.core.Installer <init>
+INFO: core installer created
+2018-11-05 11:22:08.199 org.sleuthkit.autopsy.imagegallery.ImageGalleryController reset
+INFO: Closing ImageGalleryControler for case.
+2018-11-05 11:22:08.249 org.sleuthkit.autopsy.casemodule.Case closeCurrentCase
+INFO: Closing current case ACME Case (acme_case_20181025_221452) in C:\Users\Marco\Desktop\ACME Case

@@ -1,0 +1,59 @@
+<logon>
+<mtime>Tue Mar  9 13:32:59 2004</mtime><artifacts>
+</artifacts></logon>
+----------------------------------------
+<recentdocs><mtime>Tue Mar  9 13:30:38 2004</mtime><artifacts>
+<doc name="Windows">Confidential</doc>
+<doc name="Windows">diagram.gif</doc>
+<doc name="Windows">Project 238x.rtf</doc>
+<doc name="Windows">Project 47x.doc</doc>
+<doc name="Windows">You Won't Believe this Awesome Offer.eml</doc>
+<doc name="Windows">test.eml</doc>
+<doc name="Windows">Outlook Express</doc>
+<doc name="Windows">cleanup.log</doc>
+</artifacts></recentdocs>
+----------------------------------------
+<runMRU>
+<mtime>Fri Mar  5 03:24:20 2004</mtime>
+<artifacts>
+<MRUList>a</MRUList>
+<MRU>a   cmd\1</MRU>
+</artifacts>
+</runMRU>
+----------------------------------------
+<shellfolders>
+<mtime>Fri Jan 23 16:58:01 2004</mtime>
+<artifacts>
+<shell name="AppData"> C:\Documents and Settings\psmith\Application Data</shell>
+<shell name="Cookies"> C:\Documents and Settings\psmith\Cookies</shell>
+<shell name="Desktop"> C:\Documents and Settings\psmith\Desktop</shell>
+<shell name="Favorites"> C:\Documents and Settings\psmith\Favorites</shell>
+<shell name="NetHood"> C:\Documents and Settings\psmith\NetHood</shell>
+<shell name="Personal"> C:\Documents and Settings\psmith\My Documents</shell>
+<shell name="PrintHood"> C:\Documents and Settings\psmith\PrintHood</shell>
+<shell name="Recent"> C:\Documents and Settings\psmith\Recent</shell>
+<shell name="SendTo"> C:\Documents and Settings\psmith\SendTo</shell>
+<shell name="Start Menu"> C:\Documents and Settings\psmith\Start Menu</shell>
+<shell name="Templates"> C:\Documents and Settings\psmith\Templates</shell>
+<shell name="Programs"> C:\Documents and Settings\psmith\Start Menu\Programs</shell>
+<shell name="Startup"> C:\Documents and Settings\psmith\Start Menu\Programs\Startup</shell>
+<shell name="Local Settings"> C:\Documents and Settings\psmith\Local Settings</shell>
+<shell name="Local AppData"> C:\Documents and Settings\psmith\Local Settings\Application Data</shell>
+<shell name="Cache"> C:\Documents and Settings\psmith\Local Settings\Temporary Internet Files</shell>
+<shell name="History"> C:\Documents and Settings\psmith\Local Settings\History</shell>
+<shell name="My Pictures"> C:\Documents and Settings\psmith\My Documents\My Pictures</shell>
+<shell name="Fonts"> C:\WINDOWS\Fonts</shell>                
+<shell name="My Music"> C:\Documents and Settings\psmith\My Documents\My Music</shell>
+<shell name="Administrative Tools"> C:\Documents and Settings\psmith\Start Menu\Programs\Administrative Tools</shell>
+<shell name="CD Burning"> C:\Documents and Settings\psmith\Local Settings\Application Data\Microsoft\CD Burning</shell>
+<shell name="My Video"> </shell>                                
+
+</artifacts></shellfolders>
+----------------------------------------
+----------------------------------------
+----------------------------------------
+<NtuserNetwork>
+<mtime></mtime>
+<artifacts>
+</artifacts></NtuserNetwork>
+----------------------------------------

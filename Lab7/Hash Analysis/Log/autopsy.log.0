@@ -1,0 +1,32 @@
+2018-11-21 21:41:14.244 org.sleuthkit.autopsy.keywordsearch.Server isRunning
+INFO: Solr server is running
+2018-11-21 21:41:18.043 org.sleuthkit.autopsy.casemodule.Case openAsCurrentCase
+INFO: Opened Hash Analysis (hash_analysis_20181119_153424) in C:\Users\Marco\Desktop\Hash Analysis as the current case
+2018-11-21 21:41:18.506 org.sleuthkit.autopsy.corecomponents.DataContentTopComponent findInstance
+WARNING: Cannot find DataContentTopComponent component. It will not be located properly in the window system.
+2018-11-21 21:41:19.055 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB setPragmas
+INFO: sqlite-jdbc version 3.7.8 loaded in native mode
+2018-11-21 21:41:19.4 org.sleuthkit.autopsy.imagegallery.ImageGalleryController reset
+INFO: Closing ImageGalleryControler for case.
+2018-11-21 21:41:19.411 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB setPragmas
+INFO: sqlite-jdbc version 3.7.8 loaded in native mode
+2018-11-21 21:41:33.526 org.sleuthkit.autopsy.contentviewers.FileViewer isSupported
+INFO: Mimetype not known for file: $BadClus:$Bad
+2018-11-21 21:41:34.712 org.sleuthkit.autopsy.contentviewers.FileViewer isSupported
+INFO: Mimetype not known for file: $BadClus:$Bad
+2018-11-21 22:06:23.417 org.sleuthkit.autopsy.keywordsearch.Server stop
+INFO: Stopping Solr server from: C:\Program Files\Autopsy-4.9.0\autopsy\solr
+2018-11-21 22:06:23.417 org.sleuthkit.autopsy.keywordsearch.Server runSolrCommand
+INFO: Running Solr command: [C:\Program Files\Autopsy-4.9.0\jre\bin\java, -Xmx512m, -DSTOP.PORT=34343, -Djetty.port=23232, -DSTOP.KEY=jjk#09s, -jar, start.jar, --stop]
+2018-11-21 22:06:23.425 org.sleuthkit.autopsy.keywordsearch.Server runSolrCommand
+INFO: Finished running Solr command
+2018-11-21 22:06:23.426 org.sleuthkit.autopsy.keywordsearch.Server stop
+INFO: Waiting for Solr server to stop
+2018-11-21 22:06:24.276 org.sleuthkit.autopsy.keywordsearch.Server stop
+INFO: Finished stopping Solr server
+2018-11-21 22:06:24.276 org.sleuthkit.autopsy.core.Installer <init>
+INFO: core installer created
+2018-11-21 22:06:24.304 org.sleuthkit.autopsy.imagegallery.ImageGalleryController reset
+INFO: Closing ImageGalleryControler for case.
+2018-11-21 22:06:24.315 org.sleuthkit.autopsy.casemodule.Case closeCurrentCase
+INFO: Closing current case Hash Analysis (hash_analysis_20181119_153424) in C:\Users\Marco\Desktop\Hash Analysis

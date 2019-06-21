@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>4.0</SchemaVersion>
+  <CreatedDate>2018/11/19 15:34:24 (EST)</CreatedDate>
+  <ModifiedDate>2018/11/19 15:34:31 (EST)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.9.0</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.9.0</SavedByAutopsyVersion>
+  <Case>
+    <Name>hash_analysis_20181119_153424</Name>
+    <DisplayName>Hash Analysis</DisplayName>
+    <Number>003</Number>
+    <Examiner>Examiner</Examiner>
+    <ExaminerPhone/>
+    <ExaminerEmail/>
+    <CaseNotes/>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+</AutopsyCase>
